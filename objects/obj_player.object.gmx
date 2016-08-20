@@ -26,6 +26,8 @@
           <argument>
             <kind>1</kind>
             <string>{
+    randomize();    
+
     image_index=tristana_idle;
     image_speed=.4;
     globalvar rjump, vertical;
@@ -189,6 +191,7 @@
     if(rjump&amp;&amp;vertical==0){
         audio_play_sound(tristana_rjump_land,10,0);
         rjump=false;
+        instance_create(x,y+6,obj_tristana_rjump_exp)
         }
 }
 </string>

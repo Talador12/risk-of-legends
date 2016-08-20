@@ -101,6 +101,9 @@
     <instance objName="obj_top_ground" x="768" y="544" name="inst_2388B13A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_top_ground" x="704" y="512" name="inst_A6F6F1B2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_top_ground" x="896" y="544" name="inst_43CA17CE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_melee_minion" x="288" y="320" name="inst_6CF0C6E9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_melee_minion" x="400" y="512" name="inst_13B40F37" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_melee_minion" x="256" y="528" name="inst_97B45BF4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>
